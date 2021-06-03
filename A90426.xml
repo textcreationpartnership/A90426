@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The third part of the new Athenians no noble Bereans: being an answer to the Athenian Mercury of the 14th. 4th. month, called June, in behalf of the people called Quakers.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90426</idno><idno type="EEBO-CITATION">45578403</idno>
+  <idno type="VID">172325</idno>
+  <idno type="EEBO-PROQUEST">2240894130</idno>
+  
+            <idno type="STC">Wing P1382</idno>
+            <idno type="STC">ESTC R181635</idno>
+            <idno type="OCLC">45578403</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The third part of the new Athenians no noble Bereans: being an answer to the Athenian Mercury of the 14th. 4th. month, called June, in behalf of the people called Quakers.</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Northcott in George-yard in Lombard-street,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Penn by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: some text obscured.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Divinity.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+               <term type="topical_term">Transubstantiation.</term>
+               <term type="topical_term">Trinity.</term>
+               <term type="topical_term">Soul.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:172325:1"/>
+            <head>The Third Part of the <hi>New Athenians no Noble Bereans:</hi> BEING AN ANSWER to the <hi>ATHENIAN MERCƲRY</hi> Of the <hi>14th. 4th.</hi> Month, called <hi>June,</hi> in Behalf of the People called Quakers.</head>
+            <p>THE first part of your <hi>third Mercury</hi> finds an An<g ref="char:EOLhyphen"/>swer in the Conclusion of ours to your second; yet since you make such a Voluminous Puther about <hi>R. B.</hi>'s words of the Body of Christ, as well as of the Letter to <hi>G. F.</hi> taking up in their Ag<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>vation, more than the room of seven other Charges, we <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> consider what you say: Which is this. <hi>If the Nature of this <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>al Light, Substance or Spiritual Body that is in all of them, be <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>al, as it must be, because, according to them, a divisible Sub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e, then there's plain Penetration of Dimensions, and every</hi> Qua<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>carries about all Transubstantiation in his Belly.</hi> But why pray <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> must it be a material Substance? Do you find it in the first <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>John,</hi> 4, &amp; 9. for there is our Light asserted and described. <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Life</hi> of the <hi>Word</hi> is our <hi>Light,</hi> and <hi>your Light if you please.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Word was Life, and that Life the Light of Men; and that was <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>rue Light, that lighteth every Man that comes into the World.</hi> Is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Life no Substance? And if it be, Is it a Material or Spiri<g ref="char:EOLhyphen"/>tual one? And if it be a Spiritual one, is it, or is it needful it should be a Divisible one? Consider well, is the Sun divided be<g ref="char:EOLhyphen"/>cause all see by it? No more is Christ: So that Divisibility is your own Conceit, and not our Opinion or Consequence of it, but of your mistaking it: And all the <hi>Transubstantiation</hi> you though<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was in our <hi>Belly,</hi> proves, at last, to be in your own <hi>Heads;</hi> and 'tis hoped this will help to get it out for you.</p>
+            <p>Again, you say, <hi>If Immaterial, let 'em make sense of it that can, for to us 'tis pure Quakerism.</hi> How now <hi>Athenians!</hi> have you ne<g ref="char:EOLhyphen"/>ver met with <hi>Immaterial Substances</hi> in your Reading? Then surely you have Travell'd but a little way in the Commonwealth of Letters. Both the New and Old Philosophy must be Strangers to you; and which is worse, you are so to the Bible. Wash your Eyes therefore, I pray, and turn to <hi>Joh.</hi> 6. from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8, to 63. and tell us if you will or can, Who is the Living Bread there that comes down from Heaven? And what is that Flesh and Blood Christians must feed upon, if they would be saved? Here is an <hi>Immaterial Substance or Body</hi> for you, one of God's provi<g ref="char:EOLhyphen"/>ding, that you in derision call <hi>pure Quakerism;</hi> but very glad we are of it, and should be more, that you were better acquainted with it. We pity your extream Ignorance of Heavenly Thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; for nothing else could make you so gross or abusive upon so Essencial a part of Religion, and us for asserting it. Take not that strictly which is spoken with Construction, nor that pro<g ref="char:EOLhyphen"/>perly or literally, which is figuratively and mystically exprest or to be understood, and we shall neither appear so Monstrous, nor you so much mistaken. You may wring as great Inconsi<g ref="char:EOLhyphen"/>stency out of Scripture as any other Book, if you take that Course to expound it. Be therefore just to us, and shew you would Inform us, or be Informed by us, as sometimes you would have us to believe; but do not jeer at what you do not understand, nor charge what you do not know. For your Ag<g ref="char:EOLhyphen"/>gravation of the Letter to <hi>G. F.</hi> and the confident Conclusions you make of our <hi>Idolatry,</hi> they are both untrue and abusive; It is not our Principle, it was never our Practice; abhoring utterly that extravigant as well as unchristian Imputation; no People or Testimony, since the World began, laying Man lower than we have done, even to a fault in our Adversaries appre<g ref="char:EOLhyphen"/>hension. For we have not only opposed an Idolatry to Crea<g ref="char:EOLhyphen"/>tures or Works of Mens Hands, which is the grosser sort, but <hi>that of the Mind</hi> also: The Worship Men too generally and too zealously pay to their own <hi>Imaginations</hi> or the <hi>Idea's</hi> they have framed to themselves of God and Christ, and will at any rate make others do so too if they can. A refined Idolatry too ma<g ref="char:EOLhyphen"/>ny are guilty of that exclaim against the other; and very per<g ref="char:EOLhyphen"/>nicious to the Souls true Knowledge and Enjoyment of God and Christ.</p>
+            <p>Your Fifth Charge is, <hi>That we deny the Trinity.</hi> But you should in Justice, have added, of <hi>Persons,</hi> with all the <hi>School-Niceties</hi> and <hi>Distinctions</hi> that belong to that sort of explication of Scripture; for to that only it is your first Proof refers, <hi>viz. W. P.</hi>'s <hi>Sandy Foundation,</hi> p. 12. <q rend="margQuotes">For the Scripture no where calls God the <hi>Holy Three of</hi> Israel, but <hi>Holy One of</hi> Israel. </q> And if he had said <hi>Imagined Trinity,</hi> p. 16. as you cite, which he does not in the Copy we have, it ought not to be so heinous with you, since <hi>Three Persons</hi> are not to be found in the Bible, which you exalt for the only <hi>Rule</hi> of Faith. And if you will not allow that Council to be Infallible that formed that Article above 300 Years after Christ's Ascension, as to be sure you will not, I hope it must be their <hi>Imagination</hi> of the Text, if not a Divine Inspiration. Your Proof, 1 <hi>Job.</hi> 5. 7. <hi>There are three that bear Record in Heaven, the Father, the Word, and the Holy Ghost, and these three are one,</hi> will not support your Charge, because it con<g ref="char:EOLhyphen"/>tains not the Matter controverted in it, <hi>viz. Three Persons,</hi> for that is the Point in Controversy. Let it suffice, if you please, that we believe the Scripture, tho' we reject that Interpreta<g ref="char:EOLhyphen"/>tion; and that we own Three Witnesses, and that those Three are One; without allowing the Intricacy and Confusion of the Schools.</p>
+            <p>Your Second Proof is from <hi>Sweet Sips:</hi> But that's no <hi>Quaker's</hi> Book, and so no Proof upon us. Be more cautious another time, and know better what you do.</p>
+            <p>Your Sixth Charge, <hi>That we hold the Soul Sleeps,</hi> you your selves retract, but would have it a Fruit of your <hi>Ingenuity;</hi> and because we would Incourage a thing so rare with you, we will at this time spare your Disingenuity in making it. But, as if you were more troubled at our being Clear than Guilty, and at your selves for missing the Blow at us, than for abusing us, to recover that Slip, and to make us amends, your <hi>Ingenuous</hi> Re<g ref="char:EOLhyphen"/>traction ends in two other Charges.</p>
+            <p n="1">1. <hi>That we Deny the Resurrection of the Body.</hi> 2. <hi>The Distinct Existence of the Soul after Death.</hi> Your Proof for the first is <hi>G. Whitehead's</hi> saying, <q rend="margQuotes">That he did not believe his Body should rise again after Death:</q> (But <hi>G. W.</hi> denies that to be his Answer:) And <hi>William Penn</hi>'s not denying it to <hi>John Faldoe.</hi> Whereas they answer no otherwise than what the A<g ref="char:EOLhyphen"/>postle said to the <hi>Corinthians, That sowest not that body which shall be,</hi> 1 Cor. 15. 37. How is it then a Crime to deny your gross Conceit of the Resurrection? for in all Scriptural respects we reverently and joyfully own the Resurrection, as we have good cause to do of all People. And if you believe that <hi>Death</hi> came by <hi>Sin,</hi> That Innocent, Wise, and Upright Man, <hi>J. Pennington,</hi> 2 Prin. p. 34. was not out of the way to say, <hi>that what we lost in the first</hi> Adam <hi>we regained in the second;</hi> and the Resurrection, to be sure, is not the least part; which is alone through him that was himself <hi>the first begotten from the dead.</hi> And for <hi>Sweet Sips,</hi> tho' none of ours, yet no proof for you, for the very quo<g ref="char:EOLhyphen"/>tation owns the Resurrection. But Curious Quesions we avoid, and count them the <hi>Foolish and Ʋnlearned Ones</hi> that the Apostle forbad, 1 <hi>Tim.</hi> 6. 4, 5. 2 <hi>Tim.</hi> 2. 22, 23. being more solici<g ref="char:EOLhyphen"/>tous that we appear accepted with God, than God, than with what Podies we shall appear.</p>
+            <p n="2">2. That we <hi>Deny the Distinct Exislence of the Soul,</hi> is as false as that we assert the <hi>Soul sleeps;</hi> but, perhaps, you think that <hi>Sweet Sips</hi> will help you out, <hi>Ch.</hi> 26. but for that very Proof you owe us another <hi>Retraction;</hi> and we wish you may do it more <hi>ingeniously</hi> than you did your last.</p>
+            <p>Your Seventh Charge is, <hi>That we have been lookt upon as By<g ref="char:EOLhyphen"/>blows of the Jesuits.</hi> If so, upon what Church, pray you, did they beget us? But out of the abundance of your Hearts your Mouths speak, and that foully, and falsly too, too often. But your Proofs for this? <hi>Why, most Writers say so.</hi> Do they so? where are they pray, and for what reasons? but you say not a word of that. This you cannot think a fruit of your Ingenuity; but it seems, if we would <hi>peruse</hi> Ignatius<hi>'s Life, we'd think him as Errant a Quaker as</hi> William Penn <hi>himself.</hi> So that while you take it ill of us to refer you, for our belief, to our own Books, and don't write new ones, to tell you our Religion, you take upon you to send us to other Peoples Books to learn our own, and that with Reflections also. In this whatever you think, you are not over modest or reasonable. But if <hi>Inside,</hi> be <hi>Outside;</hi> if <hi>Spirit,</hi> be <hi>Forms; Plainness, Pomp; Conviction, Implicit Faith;</hi> and <hi>Christ's Kingdom be of this World,</hi> you are in the right, or else you abuse us.</p>
+            <p>Your Eighth Charge makes us <hi>to deny the Plenary Satisfaction of Christ, and to rest upon our own Merits.</hi> 'Tis some comfort to us, that there is not one Charge that is a Text of Scripture,
+<pb facs="tcp:172325:2"/> or delivered in Scripture-phrase. Where do you find <hi>Plenary Satisfaction</hi> in the Bible? or what do you mean by it? You that would have it the only <hi>Rule,</hi> should make it yours. You cite <hi>J. N.</hi>'s <hi>Love to the lost,</hi> p. 7. <hi>his Righteousness imputed, or put into the Creature;</hi> and this you <hi>squib</hi> at, considering that <hi>A<g ref="char:EOLhyphen"/>braham</hi> was <hi>really</hi> righteous, when his Faith was <hi>imputed, or ac<g ref="char:EOLhyphen"/>counted to him for righteousness;</hi> or you will charge the Holy Ghost with wrong reckonings. But any thing rather than have Christ's righteousness within Men. Pray read 1 <hi>Sam.</hi> 22. 15. <hi>Psal.</hi> 32. 2. and you will find impute or imputeth so applied. Your second Proof is <hi>R. B.</hi> p. (no where) saying, <hi>we are justi<g ref="char:EOLhyphen"/>fied by Christ formed in us.</hi> And so we are in the compleat sense of the word; for the word comprehends <hi>remission of sins that are past upon repentance,</hi> and <hi>sanctification,</hi> or being made holy <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d just <hi>inwardly.</hi> And to be plain with you, we do believe, <hi>1st, That Christ died for all, and is a propitiation for the sins of the World,</hi> 1 Jo. 2. 1, 2. <hi>2dly, That he was herein the effect rather than cause of the Fathers love;</hi> as Jo. 3. 16. &amp; 1 Jo 4. 9, 10. <hi>God so loved the world,</hi> &amp;c. <hi>3dly,</hi> That <hi>Justification,</hi> as taken <hi>for remission of sin, accounting Pentients as just as if they had not sinned,</hi> refers to Christ as a <hi>Propitiation. He was our common Offering for Sin;</hi> and as the word is taken for man's being made <hi>inherently</hi> just and holy, it refers to Christ as the <hi>sanctifier</hi> of his People; so that 'tis <hi>Christ still, every way, by which we hope for salvation.</hi> And for our <hi>Works,</hi> even the best, such as <hi>James</hi> meant, <hi>Jam.</hi> 2. they are <hi>rewardable,</hi> but not <hi>meritorious;</hi> because there is no pro<g ref="char:EOLhyphen"/>portion between the Work and Wages; <hi>for the Wages of Sin is Death, but the Gift of God is Eternal Life, through Jesus Christ our Lord,</hi> Rom. 6. 23.</p>
+            <p>Your Ninth Charge is, That we <hi>deny the Divinity of Christ,</hi> (but your Reasons shame your Charge) <hi>and this they do with a witness,</hi> say you, <hi>if they make him nothing but themselves:</hi> But if we don't, what have you made of your selves, think you? Who of us ever said so? Are we the <hi>Light that lighteth all that come into the World? or did we make the World?</hi> Indeed you are very gross. Your other Proof is as lame; you say, <hi>we deny him to be God;</hi> but not a word of ours cited to that purpose, for we believe, that Christ was God manifested in the flesh; as <hi>Jo.</hi> 1. 14. 1 <hi>Tim.</hi> 3. 16.</p>
+            <p>Your Tenth Charge is <hi>Antartick</hi> to your Ninth: For now you say <hi>we more plainly deny his Humanity.</hi> Thus you make us shift and take turns at Faith, till you have left us none: But what are your Proofs? <hi>G. F.</hi> Myst. p. 71. <q rend="margQuotes">Christ is not <hi>Humane;</hi> where doth the Scripture speak of <hi>Humane?</hi> we deny the word <hi>Humane.</hi>
+               </q> But that all Readers may deny you, till you deny your selves, the pleasure of Abusing us, we'll repeat the place as it lies.</p>
+            <p>Priest sayeth <hi>Christ's Humane Nature,</hi> &amp;c.</p>
+            <p>
+               <hi>G. Fox</hi> Ans. <q rend="margQuotes">Where doth the Scripture speak of <hi>Humane?</hi> The word <hi>Humane,</hi> where is it written? tell us, that we may search for it? <hi>Now we do not deny, that Christ according to the flesh was of</hi> Abraham, but not the word Humane; and Christ's Nature is not Humane which is earthly, for that is the first <hi>Adam.</hi>
+               </q> Now <hi>Athenians,</hi> if you can, blush! What; make us de<g ref="char:EOLhyphen"/>ny that Christ came of the Seed of <hi>Abraham</hi> after the Flesh, by a Place that owns it, and that owns it fully, scripturally, and as it should be owned and worded by Christians, that use the from of sound words given them by the Holy Ghost, denying only a <hi>School-Term</hi> borrowed from the Ground: This is hard.</p>
+            <p>Thus you serve us also in your last Charge, where you will have us to deny <hi>Angels, Spirits, Heaven,</hi> and <hi>Hell,</hi> and so make an end of us and our Religion. And to prove it, you bring a Book, that is none of ours; and not without injury to the Au<g ref="char:EOLhyphen"/>thor neither; and then conclude us a <hi>Compendium</hi> of all <hi>Heresies;</hi> naming 22 of them in rank and file, and a <hi>cum multis aliis</hi> at the tail of them. But if they had foul play from their Judges as we have had from you, they will deserve a better name. How<g ref="char:EOLhyphen"/>ever, you are obliged to us, that we have abbreviated Heresie for you, and yet you have not convicted us of any one Point that deserves that black name. We must say, we are sorry to see you act as if you thought us exempted from the common Claims of Humanity; to be dealt with as you please, and as if Injuries could not be committed upon such wretches as we are in your esteem: For you <hi>add, diminish, pervert,</hi> and that boldly; and when you have shap't and drest up the <hi>Monster,</hi> you are plea<g ref="char:EOLhyphen"/>sed to write <hi>Quaker</hi> upon him, and then lead him about the Streets in your <hi>Mercuries</hi> for a Show, at Pence a piece: God Al<g ref="char:EOLhyphen"/>mighty shew you Mercy, that allow us none, but refuse to be just; for after all your black Charges, you fall to asking what our Faith is, which should have been first done.</p>
+            <p>You objected upon us, of turning the other Cheek; saying, it was patience <hi>per</hi> force.</p>
+            <p>But you are mistaken in fact, we have put up legal Advan<g ref="char:EOLhyphen"/>tages many times, and endured and forgiven innumerable perso<g ref="char:EOLhyphen"/>nal Injuries from those out of Office as well as from those that have been in Government, nay, often-times dared Cruelties and Oppression with a literal conformity to the Text. Speak not so peremptorily of what you do not know, nor cannot imitate; 'tis strange, that you expect better things from our Religion, than your own, and yet would have ours to be worse.</p>
+            <p n="2">2. You say, It was not Conscience, but an unaccountable, not to say brutal Stubbornness. You have endeavoured to rob us of our Religion, will you now rob us of our Suffering, and the good Intention of it too? for that word of yours, autho<g ref="char:EOLhyphen"/>rizes all the Imprisonments, Plunders, Banishments, and Mur<g ref="char:EOLhyphen"/>ders we have suffered since a People, and if we should strain con<g ref="char:EOLhyphen"/>sequences, intitles you as errant Persecutors as B. <hi>Bonner,</hi> or Dr. <hi>Story.</hi>
+            </p>
+            <p>But, <hi>3dly,</hi> You say we give hard words; Do we? such as the things call for, doubtless; I hope no personal Reflections? Yes, <hi>Whitehead</hi> complains of a new Persecution; and with very good reason, when the old ones are justified by you, and you proclaim us a <hi>Compendium</hi> of 22 Heresies, with <hi>multis alits</hi> at the end of it; which, in other words, is saying, <hi>Take them Dr.</hi> Pin<g ref="char:EOLhyphen"/>fold.</p>
+            <p>Again, You take it ill, he says you make Beasts, and Devils, of us; but what else, pray, do you make of us, when you can<g ref="char:EOLhyphen"/>not make worse of us than you have?</p>
+            <p>You add, That we call you Impertinent; and pertinently we think, to ramble as you have done, from your Province, to spread Invectives upon us. Wicked; what can you think it less, to abuse a whole People in the tenderest Point? Fol<g ref="char:EOLhyphen"/>lowers of blind Guides, or how else could you have miss'd your way so much? for 'tis plain, nothing can be more mistaken: 'Tis a wonder, say you, dumb Dogs don't come in too, tho' we have no silent Meetings. We can't think why you should won<g ref="char:EOLhyphen"/>der at that, since you know how much you have Barkt at us. There is no danger of your being dumb, but deaf. And since you brought in this to introduce your prophane Jest at our si<g ref="char:EOLhyphen"/>lent Meetings, we must tell you, you may see in your selves the use of Silence, by your abuse of Speech; and therein▪ Defence for us, and a Reproof to you. In short, we recomme<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> silence to you, as <hi>Pythagorus</hi> did to his Scholars, till you ha<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> learnt to speak better than you do.</p>
+            <p>The next thing is your ten Questions, an unreasonable <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> well as an unsuitable Conclusion; for you first Judge, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Query; and after charging us home, you ask, What's o<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lief? It shews too great a levity for Men of your cla<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sense; and, tho' not Enthusiastical, yet, if you will no<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gry, it looks very silly: But because for that reason it does <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> look malicious, you may have an Answer, tho' least of al<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your sakes, by another hand. But, before we part, pray <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this along with you: Our Religion and the True Religion, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> makes People truly religious, is the Fear of God planted i<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Soul by the Grace of God, which sanctifies and rules the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffections, and not Creeds of Words, tho' never so tr<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for the Devils have Knowledge and Faith, but their Knowledge does not work by Obedience, or their Faith by Love; and therefore they are never the better for it: Nor are wicked Men, as the World shews. Religion then is a Divine Experience and Work in the Soul, by the Divine Spirit. It is Regeneration, and that a new Creature, <hi>Gal.</hi> 6. 15, 16. And as the Jew inward is the Circumcision of the Heart, so is that the Character of a true Christian. A short Creed of Words served of old with an upright Heart. <hi>Thou art the Son of God, Thou art the King of Israel,</hi> was <hi>Nathaniel</hi>'s Confession. <hi>My Lord and my God,</hi> was all <hi>Thomas</hi> his Retraction and Creed, <hi>Jo.</hi> 20. 28. And <hi>Peter</hi>'s Confession of Faith is little larger, <hi>Matth.</hi> 16. 18. Thus also the Blind, Lame, and Sick, that came believingly to him.</p>
+            <p>To be a Christian then was to be like Christ, Meek, Hum<g ref="char:EOLhyphen"/>ble, Holy, Loving, Patient; and this his Light and Spirit maketh those that embrace them. Unto which we refer and exhort you, and all to whom these Papers may come, as the great Agent of Man's Happiness; desiring earnestly that our care may be about our Conformity to our Saviour, rather than Controversies about him; since the true Religion is to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike Christ, 1 <hi>Pet.</hi> 2. 21. <hi>Chap.</hi> 3. 10, 11 12. 1 <hi>Job.</hi> 2. 6. Say not then that we value our Title to Christianity by <hi>Human Laws;</hi> you wrong us much: Ours hath a higher Claim and so must yours, if you expect to be saved by it. We spoke not of being therefore Christians in God's Account, but of being esteemed enough, to live quieter than your Invectives seem to let us, a<g ref="char:EOLhyphen"/>mong Men. But it is not he least part of the Cross we bear, to be, in almost every thing, so much misunderstood, and by some so evilly represented. One while they wil have us deny the <hi>Divinity</hi> of Christ, another while the <hi>Humanity.</hi> Sometimes we must be <hi>Socinians,</hi> then <hi>Sabellians.</hi> Very often we are told that we expect to be saved by our <hi>own Works;</hi> and as often that we will do nothing <hi>unless the Spirit move us.</hi> Again, some<g ref="char:EOLhyphen"/>times we are said to send all to <hi>Hell</hi> but our selves; and pre<g ref="char:EOLhyphen"/>sently <hi>we deny any such thing.</hi> Ay, we are accused with <hi>Idolatry</hi> to Mens Persons, and yet scorn'd for denying <hi>all Honours or Respects</hi> to the Persons of Men. Just thus we are made to dis<g ref="char:EOLhyphen"/>own <hi>all Ministry,</hi> and by and by accused, <hi>That every one among us is a Minister or may be so.</hi> It would be tedious to repeat the <hi>Contradictions and absurd Dilemma's</hi> Men have brought themselves into, by their rash and unjust Attempts against us; which they will easily perceive, that please to peruse some of our Contro<g ref="char:EOLhyphen"/>versial Tracts, as <hi>Rusticus ad Academicus,</hi> the <hi>Christian Quaker,</hi> in two Parts, <hi>R. B.</hi>'s <hi>Apology and Defence, Quakerism a New Nick-Name for old Christianity,</hi> and the <hi>Rejoynder</hi> in its Defence, the <hi>Way cast Ʋp, Reason against Railing,</hi> and <hi>Wisdom justified of her Children,</hi> &amp;c. In which our Belief is distinguished and defended against the Abuses, Men, through Ignorance or Prejudice, have put upon it. God Almighty enlighten and forgive them; that is the worst of our Wishes, for their many hard Speeches against us and our Holy Profession; Concluding, your well-wishing Friends, after all your Unfriendly Usage.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> Thomas Northcott <hi>in</hi> George-yard <hi>in</hi> Lombard-street, 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
